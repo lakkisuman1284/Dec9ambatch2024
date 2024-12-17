@@ -19,6 +19,7 @@ public class GmailTest extends BaseTest {
 		//Here Wantedly we are failing the test case
 		WebElement nxt=getDriver().findElement(By.id("IdentifierNext456"));
 		nxt.click();
+		System.out.println("java");
 	}
 	
 }
