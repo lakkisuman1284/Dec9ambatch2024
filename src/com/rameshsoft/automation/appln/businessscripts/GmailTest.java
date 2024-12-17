@@ -20,6 +20,7 @@ public class GmailTest extends BaseTest {
 		WebElement nxt=getDriver().findElement(By.id("IdentifierNext456"));
 		nxt.click();
 		System.out.println("java");
+		System.out.println("java");
 	}
 	
 }
