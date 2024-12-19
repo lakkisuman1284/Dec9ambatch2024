@@ -21,6 +21,8 @@ public class GmailTest extends BaseTest {
 		nxt.click();
 		System.out.println("java");
 		System.out.println("java");
+		System.out.println("java");
+		System.out.println("java");
 	}
 	
 }
